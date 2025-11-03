@@ -1,0 +1,74 @@
+# Visual Studio / .NET
+## Build folders
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+
+## Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+## Resharper
+_ReSharper*/
+*.ReSharper*/
+
+## NuGet
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+## dotnet publish / artifacts
+artifacts/
+publish/
+
+## Symbols
+*.pdb
+
+## Generated files
+*.g.cs
+*.g.i.cs
+
+## User secrets and local configuration
+secrets.json
+appsettings.Development.json
+
+## Logs
+*.log
+
+## OSX
+.DS_Store
+
+## VS Code
+.vscode/
+*.code-workspace
+
+## Node (if used)
+node_modules/
+
+## Common package managers lockfiles (optional)
+# package-lock.json
+# yarn.lock
+
+## Database files
+*.db
+*.sqlite
+
+## IIS / Express
+IISExpress/
+*.vspscc
+
+## Misc
+Thumbs.db
+ehthumbs.db
+
+# Ignore compiled extension modules
+*.so

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXpN9NBkLbw=",
+  "success": true,
+  "projectFilePath": "/Users/lilyoswald/CS330/Fall2025-Project3-Loswald/Fall2025-Project3-Loswald/Fall2025-Project3-Loswald.csproj",
+  "expectedPackageFiles": [
+    "/Users/lilyoswald/.nuget/packages/azure.ai.openai/2.1.0/azure.ai.openai.2.1.0.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/azure.core/1.44.1/azure.core.1.44.1.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/openai/2.1.0/openai.2.1.0.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.clientmodel/1.2.1/system.clientmodel.1.2.1.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.memory.data/6.0.0/system.memory.data.6.0.0.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.text.json/6.0.10/system.text.json.6.0.10.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/lilyoswald/.nuget/packages/vadersharp2/3.3.2.1/vadersharp2.3.3.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
